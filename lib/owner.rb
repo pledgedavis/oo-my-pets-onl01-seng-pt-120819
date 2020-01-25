@@ -70,7 +70,8 @@ class Owner
   dogs.each do |dog| ="nervous"
   cats.each do |cat| ="nervous"
    end
-   
+ end
+ 
    def list_pets
   # cats 
   # dogs
