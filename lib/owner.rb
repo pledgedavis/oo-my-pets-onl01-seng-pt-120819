@@ -67,6 +67,7 @@ class Owner
     # dogs.each {|dog| dog. ="nervous"}
     # cats.each {|cat| cat.mood ="nervous"}
   # (dogs + cats).each {|dog,cat| (dog, cat)mood ="nervous"}
+  
    end
    
    def list_pets
