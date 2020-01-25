@@ -67,6 +67,8 @@ class Owner
   # (dogs + cats).each {|dog,cat| (dog, cat)mood ="nervous"}
    end
    def list_pets
+   cats 
+   dogs
    end
 end
 
