@@ -64,8 +64,8 @@ class Owner
    
    def sell_pets
   # binding.pry
-    dogs.each {|dog| dog. ="nervous"}
-    cats.each {|cat| cat.mood ="nervous"}
+    # dogs.each {|dog| dog. ="nervous"}
+    # cats.each {|cat| cat.mood ="nervous"}
   # (dogs + cats).each {|dog,cat| (dog, cat)mood ="nervous"}
    end
    
