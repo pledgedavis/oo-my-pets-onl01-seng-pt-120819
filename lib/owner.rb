@@ -68,9 +68,9 @@ class Owner
     # cats.each {|cat| cat.mood ="nervous"}
   # (dogs + cats).each {|dog,cat| (dog, cat)mood ="nervous"}
   dogs.each do |dog| 
-    dog = "nervous"
+    dog.mood = "nervous"
   cats.each do |cat|
-    cat = "nervous"
+    cat.mood = "nervous"
    end
  end
  end
